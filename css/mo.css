@@ -1315,6 +1315,7 @@ justify-content: space-around;
     font-size: 20px;
     color: white;
     background-color: var(--main-color);
+    cursor: pointer;
     
 }
 @media (max-width:450px) {
